@@ -1,0 +1,35 @@
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: #c4dfe6;
+}
+
+header {
+    background-color: #c4dfe6;
+    color:#003b46;
+    border-radius: 8px;
+    width: 60%;
+    margin: 16px auto;
+}
+
+li {
+    list-style: none;
+    background-color: #07575b;
+    width: 70%;
+    margin: 12px auto;
+    border-radius: 8px;
+}
+
+li a {
+    color: #c4dfe6;
+    text-decoration: none;
+}
+
+ li:hover {
+    text-decoration: underline;
+ }
+
+ li:visited {
+    color: black;
+ }
